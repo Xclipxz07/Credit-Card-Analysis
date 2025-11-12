@@ -1,0 +1,11 @@
+TransactionID,Amount,TransactionTime,MerchantCategory,Age,CardType,Country,Fraud_Prob
+5144,145.39,24992,Fuel,76,Debit,USA,0.03
+8072,53.59,80982,Fuel,28,Debit,USA,0.165
+3325,152.31,46413,Grocery,53,Credit,France,0.02
+6476,258.57,81583,Travel,46,Prepaid,USA,0.065
+9807,134.25,72454,Travel,49,Credit,France,0.0
+579,67.75,42723,Fuel,71,Credit,USA,0.05
+3507,362.62,7804,Clothing,51,Debit,UK,0.035
+2079,419.9,9901,Online,29,Debit,Germany,0.185
+7708,143.56,29046,Online,44,Debit,India,0.29
+981,40.68,8155,Electronics,31,Credit,India,0.005
